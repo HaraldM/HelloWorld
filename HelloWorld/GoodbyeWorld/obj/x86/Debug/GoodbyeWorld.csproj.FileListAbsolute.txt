@@ -1,0 +1,5 @@
+C:\SEED\Git\HelloWorld\GoodbyeWorld\bin\Debug\GoodbyeWorld.exe
+C:\SEED\Git\HelloWorld\GoodbyeWorld\bin\Debug\GoodbyeWorld.pdb
+C:\SEED\Git\HelloWorld\GoodbyeWorld\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SEED\Git\HelloWorld\GoodbyeWorld\obj\x86\Debug\GoodbyeWorld.exe
+C:\SEED\Git\HelloWorld\GoodbyeWorld\obj\x86\Debug\GoodbyeWorld.pdb
