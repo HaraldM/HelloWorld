@@ -26,5 +26,6 @@ namespace GoodbyeWorld
         {
             return Char.ToUpper(Message[0]).ToString() + Message.Substring(1).ToLower();
         }
+
     }
 }
