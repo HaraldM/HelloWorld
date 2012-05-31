@@ -9,7 +9,7 @@ namespace GoodbyeWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Goodbye cruel world");
+            Console.WriteLine("Goodbye cruel world")
         }
     }
 }
