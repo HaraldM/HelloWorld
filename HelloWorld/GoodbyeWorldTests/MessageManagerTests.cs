@@ -60,15 +60,5 @@ namespace GoodbyeWorldTests
             var result = man.Transform();
             Assert.AreEqual("Goodbye", result);
         }
-
-        [TestMethod]
-        public void TestSay_TransformsText2()
-        {
-            var parameter = "gOOdbye";
-            man.Message = parameter;
-
-            var result = man.Transform();
-            Assert.AreEqual("goodbye", result);
-        }
     }
 }
