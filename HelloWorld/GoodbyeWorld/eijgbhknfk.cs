@@ -7,5 +7,9 @@ namespace GoodbyeWorld
 {
     class eijgbhknfk
     {
+        public eijgbhknfk()
+        {
+
+        }
     }
 }
